@@ -27,5 +27,6 @@ gestructuurde data(Accounts/Transacties) zal ik met SQL beheren en ongestructuee
 # wat voor een soort database zal ik gebruiken?
 De meest populaire database's zullen de meeste community support hebben op websites als stackoverflow. Ook heb ik een online poll gevonden op stackoverflow voor meest populaire databases
 daaruit is gebleken dat voor NOSQl mongodb het meest gebruikt is. Voor sql ga ik gebruik maken van Microsoft SQL, omdat het meer beveiligd is dan de andere databases.
+![peiling image](https://i.ibb.co/27JmLqp/Schermafbeelding-2022-04-20-155230.png)
 
 [peiling databases](https://insights.stackoverflow.com/survey/2021#most-popular-technologies-database-prof)

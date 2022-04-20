@@ -2,23 +2,18 @@
 
 # Inhoudsopgave
 
--   [C4 Model](#C4-Model)
--   [Data diagram](#Data-diagram)
+-   [C1](#C1)
+-   [C2](#C2)
+-   [C3](#C3)
 -   [Keuze Front-end Framework](#Keuze-Front-end-Framework)
 -   [Data Opslag](#keuze-data-opslag)
+-   [Data diagram](#Data-diagram)
 
 
 
-# C4 Model
-# C1 Context
-# C2 ...
-# C3 ...
-
-# Data diagram
-![sql-img](https://user-images.githubusercontent.com/79853948/164265722-031f5f0d-6bbf-43d6-a7c8-5ce85fe5e514.png)
-![nosql-img](https://user-images.githubusercontent.com/79853948/164265909-753a37d5-ccf2-43c7-bd77-dc9b2b25706f.png)
-
-Met de blauwe kleur geef ik de SQL database aan en groen NOSQL.
+# C1
+# C2
+# C3
 
 # Keuze Front-end Framework
 
@@ -65,3 +60,9 @@ daaruit is gebleken dat voor NOSQl mongodb het meest gebruikt is. Voor sql ga ik
 ![peiling_image](https://user-images.githubusercontent.com/79853948/164269996-9374b0ae-a11f-47b2-a7c0-9b2c0836977e.png)
 
 [peiling databases](https://insights.stackoverflow.com/survey/2021#most-popular-technologies-database-prof)
+
+<!-- # Data diagram
+![sql-img](https://user-images.githubusercontent.com/79853948/164265722-031f5f0d-6bbf-43d6-a7c8-5ce85fe5e514.png)
+![nosql-img](https://user-images.githubusercontent.com/79853948/164265909-753a37d5-ccf2-43c7-bd77-dc9b2b25706f.png)
+
+Met de blauwe kleur geef ik de SQL database aan en groen NOSQL. -->

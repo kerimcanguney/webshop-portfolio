@@ -1,9 +1,14 @@
 # Web application
 
 # Inhoudsopgave
-[C4-Model](#C4-Model)
+
+[C4 Model](#C4-Model)
 
 [Data diagram](#Data-diagram)
+
+[Data Opslag](#Data-Opslag?)
+
+[Wat voor een soort database zal ik gebruiken?](#wat-voor-een-soort-database-zal-ik-gebruiken?)
 
 # C4 Model
 # C1 Context

@@ -26,6 +26,10 @@ React heeft in mijn ogen geen nadelen invergelijken met Vue.js (weinig support) 
 
 # Keuze Back-end Framework
 
-Voor de back-end heb ik ervoor gekozen om met C# in de ASP.net Core framework te werken. Ik had eerst gepland om het compleet in Node.js te doen, omdat MongoDB heel
-nauwkeurig is gedocumenteerd in js dat is helaas tot tegenstelling met microsoft SQLServer. Daarom heb ik ervoor gekozen om C# ASP.net Core te gebruiken. MongoDB is
+Voor de back-end heb ik ervoor gekozen om met C# in de .NET Core framework te werken. Ik had eerst gepland om het compleet in Node.js te doen, omdat MongoDB heel
+nauwkeurig is gedocumenteerd in js dat is helaas tot tegenstelling met microsoft SQLServer. Daarom heb ik ervoor gekozen om C# .NET Core te gebruiken. MongoDB is
 hier ook in goed gedocumenteerd en met SQLServer loop ik dan tegen geen problemen aan.
+Ook is er het pluspunt dat de applicatie waarin ik werk (vsCode/vsStudio) nu gesplits staan wat fijner is.
+
+# Keuze Data-Opslag
+

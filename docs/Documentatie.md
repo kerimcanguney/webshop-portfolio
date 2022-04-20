@@ -2,13 +2,12 @@
 
 # Inhoudsopgave
 
-[C4 Model](#C4-Model)
+-   [C4 Model](#C4-Model)
+-   [Data diagram](#Data-diagram)
+-   [Keuze Front-end Framework](#Keuze-Front-end-Framework)
+-   [Data Opslag](#Keuze-Data-Opslag?)
 
-[Data diagram](#Data-diagram)
 
-[Data Opslag](#Data-Opslag?)
-
-[Wat voor een soort database zal ik gebruiken?](#wat-voor-een-soort-database-zal-ik-gebruiken?)
 
 # C4 Model
 # C1 Context
@@ -36,7 +35,7 @@ nauwkeurig is gedocumenteerd in js dat is helaas tot tegenstelling met microsoft
 hier ook in goed gedocumenteerd en met SQLServer loop ik dan tegen geen problemen aan.
 Ook is er het pluspunt dat de applicatie waarin ik werk (vsCode/vsStudio) nu gesplits staan wat fijner is.
 
-# Data-Opslag
+# Keuze Data-Opslag
 SQL Database is gemaakt in 1970 waarbij de focus was om data verdubbeling te verminderen. 
 NoSQL Database is gemaakt in het jaar 2000 waarbij de focus was voor flexibiliteit door de snelle applicatie ontwikkeling.
 
@@ -61,7 +60,6 @@ Cons:
 Uit dit informatie heb ik besloten om beste van beide te gebruiken oftewel een hybride systeem.
 gestructuurde data(Accounts/Transacties) zal ik met SQL beheren en ongestructueerde data(Producten) met NOSQL.
 
-# wat voor een soort database zal ik gebruiken?
 De meest populaire database's zullen de meeste community support hebben op websites als stackoverflow. Ook heb ik een online poll gevonden op stackoverflow voor meest populaire databases
 daaruit is gebleken dat voor NOSQl mongodb het meest gebruikt is. Voor sql ga ik gebruik maken van Microsoft SQL, omdat het meer beveiligd is dan de andere databases.
 ![peiling_image](https://user-images.githubusercontent.com/79853948/164269996-9374b0ae-a11f-47b2-a7c0-9b2c0836977e.png)

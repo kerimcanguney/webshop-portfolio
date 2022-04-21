@@ -11,8 +11,10 @@
 
 
 
-# C1
+# C1 context
+![C1model](https://user-images.githubusercontent.com/79853948/164454842-9ea83dcd-d351-4567-bf42-d485b6709271.png)
 # C2
+![C2model](https://user-images.githubusercontent.com/79853948/164454929-509462e5-cfd3-44c9-9626-658f478dccd4.png)
 # C3
 
 # Keuze Front-end Framework
@@ -25,10 +27,21 @@ React heeft in mijn ogen geen nadelen invergelijken met Vue.js (weinig support) 
 
 # Keuze Back-end Framework
 
-Voor de back-end heb ik ervoor gekozen om met C# in de .NET Core framework te werken. Ik had eerst gepland om het compleet in Node.js te doen, omdat MongoDB heel
-nauwkeurig is gedocumenteerd in js dat is helaas tot tegenstelling met microsoft SQLServer. Daarom heb ik ervoor gekozen om C# .NET Core te gebruiken. MongoDB is
-hier ook in goed gedocumenteerd en met SQLServer loop ik dan tegen geen problemen aan.
-Ook is er het pluspunt dat de applicatie waarin ik werk (vsCode/vsStudio) nu gesplits staan wat fijner is.
+Voor de back-end heb ik ervoor gekozen om de SQL gedeelte met C# in de .NET framework te maken en de NOSQL gedeelte in Node.js.
+
+**Waarom c# voor sql?**
+
+Ik ben zelf al wat bekend met C#, maar ik beheers het nog niet helemaal en had ik nog niet de kennis hoe je met een ORM werkt in C#.
+
+**Waarom Entity Framework als ORM?**
+EF is de grootste ORM voor c# wat nog gesupport word en ook het meest populaire. Deze ORM is goed gedocumenteerd en er is veel online te vinden erover.
+
+
+**Waarom Node.js voor nosql?**
+
+Node.js is een taal wat ik heel vaak zie terugkomen maar niet veel van afweet. meeste applicaties wat ik gebruik zijn gemaakt in Node.js en daarom leek het me interessant om dit te leren en verwerken in mijn project. Ook is MongoDB heel goed gedocumenteerd in node.js en zijn er veel andere mediums om informatie vandaan te halen.
+
+
 
 # Keuze Data-Opslag
 SQL Database is gemaakt in 1970 waarbij de focus was om data verdubbeling te verminderen. 

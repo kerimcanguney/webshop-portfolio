@@ -23,7 +23,7 @@ Ik heb ervoor gekozen om React te gebruiken, omdat ik zelf al wat ervaring had o
 Voor mij werkt react gemakkelijk, omdat je in een component structuur werkt en componenten kunt hergebruiken, daardoor zou dit dus ook het meest optimale keuze zijn. 
 Het is een heel populaire framework en stackoverflow/youtube zit vol met antwoorden op veel voorkomende vragen.
 
-React heeft in mijn ogen geen nadelen invergelijken met Vue.js (weinig support) of Angular (beperkte vrijheid en hoge learning curve).
+React heeft in mijn ogen geen nadelen invergelijken met Vue.js (nieuw dus weinig support) of Angular (beperkte vrijheid en hoge learning curve).
 
 # Keuze Back-end Framework
 

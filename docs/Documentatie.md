@@ -25,6 +25,7 @@ Het is een heel populaire framework en stackoverflow/youtube zit vol met antwoor
 React heeft in mijn ogen geen nadelen invergelijken met Vue.js (nieuw dus weinig support) of Angular (beperkte vrijheid en hoge learning curve).
 
 ![2019-graph-most-used-front-end-framework](https://cdn.shortpixel.ai/client/q_lossless,ret_img,w_767/https://existek.com/wp-content/uploads/2020/01/frame.png)
+
 [treewebsolutions.com artikel](https://treewebsolutions.com/articles/top-front-end-frameworks-in-2020-year-19)
 
 # Keuze Back-end Framework

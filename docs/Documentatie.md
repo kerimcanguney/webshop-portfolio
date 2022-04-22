@@ -2,10 +2,10 @@
 
 # Inhoudsopgave
 
--   [C1](#C1)
--   [C2](#C2)
--   [C3](#C3)
+-   [C1 context](#C1)
+-   [C2 container](#C2)
 -   [Keuze Front-end Framework](#Keuze-Front-end-Framework)
+-   [Keuze Back-end Framework](#Keuze-Front-end-Framework)
 -   [Data Opslag](#keuze-data-opslag)
 -   [Data diagram](#Data-diagram)
 
@@ -13,9 +13,8 @@
 
 # C1 context
 ![C1model](https://user-images.githubusercontent.com/79853948/164454842-9ea83dcd-d351-4567-bf42-d485b6709271.png)
-# C2
+# C2 container
 ![C2model](https://user-images.githubusercontent.com/79853948/164454929-509462e5-cfd3-44c9-9626-658f478dccd4.png)
-# C3
 
 # Keuze Front-end Framework
 

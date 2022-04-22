@@ -2,6 +2,7 @@
 
 # Inhoudsopgave
 
+-   [Conceptuel diagram](#Conceptuel-diagram) 
 -   [C1 context](#C1)
 -   [C2 container](#C2)
 -   [Keuze Front-end Framework](#Keuze-Front-end-Framework)
@@ -10,7 +11,11 @@
 -   [Data diagram](#Data-diagram)
 
 
+# Conceptuel diagram
+![conceptdiagram](https://user-images.githubusercontent.com/79853948/164680365-a521b5ad-2595-436f-875e-67510c01bf00.png)
 
+In mijn diagram zijn er maar 2 soorten gebruikers, admins en klanten. admins kunnen allerlei producten toevoegen aan de webshop en de klanten kunnen vervolgens
+bepaalde producten kopen. de admin in dit geval is meteen ook de eigenaar en supplier.
 # C1 context
 ![C1model](https://user-images.githubusercontent.com/79853948/164454842-9ea83dcd-d351-4567-bf42-d485b6709271.png)
 # C2 container

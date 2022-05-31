@@ -23,6 +23,9 @@ De salt sla je natuurlijk ook op in je database zodat je deze kunnen samenvoegen
 Meeste bedrijven gebruiken de hashes en salts, maar toch vinden hackers er manieren om er weer langs te komen. Met een zogenaamde **"dictionary attack"** en of **"bruteforce"** kan een hacker de wachtwoorden achterhalen. Dit is wel een heel langzaam process *(afhankelijk van het wachtwoord lengte en salt)*, maar toch betekent dit dat er een kleine kwetsbaarheid ligt in het systeem.
 
 Dan komen we aan bij het 3de voorzorgs maatregel genaamd **Pepper**. Pepper is hetzelfde als een salt alleen word deze niet opgeslagen in je database, maar in je applicatie. In principe bij een datalek zou de hacker alleen de database hebben en omdat de Pepper mist in zijn formule om het terug te werken is het zo goed als onmogelijk voor hem om alle wachtwoorden te kraken.
+
+[bron](https://www.youtube.com/watch?v=FvstbO787Qo)
+
 ## Authorizeren van een gebruiker
 Authorizeren van een gebruiker is het verlenen van rechten aan een gebruiker, zodat zij bepaalde acties kunnen voeren in onze applicatie. Er zijn 2 type manieren van authorizeren en we gaan ze allebij langs en bespreken de pro's en cons van beide manieren.
 

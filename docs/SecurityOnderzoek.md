@@ -1,6 +1,6 @@
 # Security onderzoek
 ## Inleading
-tijd op tijd vinden er data lekken plaats waarbij vele wachtwoorden worden "gekraakt". Doordat deze wachtwoorden zijn gevonden vinden er bepaalde kwetsbaarheden zich binnen het inloggen en is het de taak van programmeurs om er slimme oplossing voor te bedenken om wachtwoorden te verbergen.
+tijd op tijd vinden er data lekken plaats waarbij vele wachtwoorden worden "gekraakt". Doordat deze wachtwoorden zijn gevonden vinden er bepaalde kwetsbaarheden zich binnen het inloggen en is het de taak van programmeurs om er slimme oplossing voor te bedenken om wachtwoorden te zo goed mogelijk te verbergen. Tijdens het ontwerpen van mijn database kwam ik erachter dat wachtwoorden niet direct mochten worden opgeslagen en dat er bepaalde voorzoorgsmaatregelen moeten worden gehanteerd. Ik kwam er achter door deze [post](https://stackoverflow.com/questions/876342/storing-passwords-in-sql-server).
 
 
 

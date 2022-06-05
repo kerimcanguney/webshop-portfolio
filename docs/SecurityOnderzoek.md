@@ -2,13 +2,20 @@
 ## Inleading
 tijd op tijd vinden er data lekken plaats waarbij vele wachtwoorden worden "gekraakt". Doordat deze wachtwoorden zijn gevonden vinden er bepaalde kwetsbaarheden zich binnen het inloggen en is het de taak van programmeurs om er slimme oplossing voor te bedenken om wachtwoorden te zo goed mogelijk te verbergen. Tijdens het ontwerpen van mijn database kwam ik erachter dat wachtwoorden niet direct mochten worden opgeslagen en dat er bepaalde voorzoorgsmaatregelen moeten worden gehanteerd. Ik kwam er achter door deze [post](https://stackoverflow.com/questions/876342/storing-passwords-in-sql-server).
 
+Hoe kan ik nu mijn wachtwoorden veiligopslaan in de database?
 
 
 ## Inhoudsopgave
 
+- Wat is een database?
 - Het veilig bewaren van wachtwoorden
 - Authorizeren van een gebruiker
 - Conclusie
+
+# Wat is een database?
+Een database is een digitaal opslag ruimte waarbij we informatie kunnen opslaan. Bij een database kunnen wij zelf specificeren wat, waar en hoe opslaan.
+Er zijn verschillende soorten databases en talen om ermee te communiceren 
+# (zie docs voor meer uitleg)
 
 # het veilig bewaren van wachtwoorden
 

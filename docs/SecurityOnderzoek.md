@@ -14,8 +14,7 @@ Hoe kan ik nu mijn wachtwoorden veiligopslaan in de database?
 
 # Wat is een database?
 Een database is een digitaal opslag ruimte waarbij we informatie kunnen opslaan. Bij een database kunnen wij zelf specificeren wat, waar en hoe opslaan.
-Er zijn verschillende soorten databases en talen om ermee te communiceren 
-# (zie docs voor meer uitleg)
+Er zijn verschillende soorten databases waarbij er verschillende soorten talen zijn om ermee te communiceren (zie [docs](https://github.com/kerimcanguney/webshop-portfolio/blob/main/docs/Database-onderzoek.md) voor meer diepgang).
 
 # het veilig bewaren van wachtwoorden
 

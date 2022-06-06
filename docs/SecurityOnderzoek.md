@@ -10,6 +10,7 @@ Hoe kan ik nu mijn wachtwoorden veiligopslaan in de database?
 - Wat is een database?
 - Het veilig bewaren van wachtwoorden
 - Authorizeren van een gebruiker
+- Test met een ervaren
 - Conclusie
 
 # Wat is een database?
@@ -60,6 +61,18 @@ Dan komen we aan bij het 3de voorzorgs maatregel genaamd **Pepper**. Pepper is h
 ## Verschil Authenticatie en Authorizatie
 Authenticeren is het valideren van een gebruiker d.m.v inlog gegevens. Met deze gegevens kan een applicatie vervolgens identificeren wie jij bent.
 Authorizeren aan de andere kant is het verlenen van rechten. Bv alleen een administrator zou alle berichten mogen verwijderen, maar een gebruiker zou alleen zijn eigen berichten kunnen verwijderen en niet die van anderen. Zou een gebruiker een actie willen doen wat niet binnen zijn **rechten** valt passeert hij zo'n authorizatie niet waardoor de actie niet word vericht. 
+[bron](https://www.sailpoint.com/identity-library/difference-between-authentication-and-authorization/#:~:text=Simply%20put%2C%20authentication%20is%20the,a%20user%20has%20access%20to)
+
+## Test met een ervaren
+Na mijn onderzoek over het beveiligen van wachtwoorden wou ik zeker weten of ze wel veilig genoeg waren, daarom had ik een vriend gevraagd die lessen heeft gevolgd in cybersecurity om een wachtwoord te kraken. 
+Bij het testen gaf ik het volgende aan de *"hacker"*:
+- De hashing algoritme
+- De uiteindelijke hash
+- De toegepaste salt
+
+Met deze informatie probeerde de *hacker* vervolgens bepaalde wachtwoord kraak applicaties en kwamen we uiteindelijk op geen resultaat.
+Dit betekent dus op een echte geval van een data lek een hacker met hetzelfde niveau als de cyber-student en dezelfde tools niet de wachtwoorden kan kraken. 
+Waarmee ik dus veilig kan zeggen dat mijn beveiliging sterk genoeg is
 
 ## Conclusie
-Uit mijn onderzoek kan ik concluderen dat ik gebruik zal maken van hashing en salt voor het opslaan van de wachtwoorden. Dit methode is uit mijn onderzoek veilig genoeg en voor de hashing algoritme zal ik gebruik maken van HMACSHA-256, omdat deze redelijk nieuw is en zeer vertrouwd. Verder zal ik ook gebruik maken van JWT, omdat deze opzichzelf scaled wat mijn applicatie kan verhelpen van mogelijke problemen op lange termijn.
+Uit mijn onderzoek kan ik concluderen dat ik gebruik zal maken van hashing en salt voor het opslaan van de wachtwoorden. Dit methode is uit mijn onderzoek veilig genoeg en voor de hashing algoritme zal ik gebruik maken van HMACSHA-256, omdat deze redelijk nieuw is en zeer vertrouwd en omdat deze *"niet te kraken"* was bij het testen.

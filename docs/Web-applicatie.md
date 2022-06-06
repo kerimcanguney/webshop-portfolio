@@ -8,7 +8,6 @@
 -   [Keuze Front-end Framework](#keuze-front-end-framework)
 -   [Keuze Back-end Framework](#keuze-front-end-framework)
 -   [Data Opslag](#keuze-data-opslag)
--   [Data diagram](#data-diagram)
 
 
 # Conceptuel diagram
@@ -17,9 +16,18 @@
 In mijn diagram zijn er maar 2 soorten gebruikers, admins en klanten. admins kunnen allerlei producten toevoegen aan de webshop en de klanten kunnen vervolgens
 bepaalde producten kopen. de admin in dit geval is meteen ook de eigenaar en supplier.
 # C1 context
+Hieronder zie je de context diagram. Dit is het op simpelste manier mijn applicatie uit te leggen.
 ![C1model](https://user-images.githubusercontent.com/79853948/164454842-9ea83dcd-d351-4567-bf42-d485b6709271.png)
+We hebben een klant en die kan producten zien en of kopen vanuit de webshop app. De producten worden aangemaakt vanuit de admin portal wat de administrator beheerd. En bij een aankoop speelt er een software van derden om het betaalprocess de onderhouden.
 # C2 container
+Hieronder zie je de container diagram. Dit bevat meer diepgang op het applicatie en wat voor microservices het bevat.
 ![C2model](https://user-images.githubusercontent.com/79853948/164454929-509462e5-cfd3-44c9-9626-658f478dccd4.png)
+Enige verschil hierbij zijn de microservices.
+- Customer website: klant kan hiermee producten zien en of kopen. En gebruik maken van een account.
+- Admin website: administrator kan hiermee de API's besturen.
+- Account API: maakt een gebruiker aan en of logd deze in. (admin kan account hierbij verwijderen)
+- Product API: geeft alle producten weer. (admin kan de producten aanpassen)
+- Inventory API: onderhoudt de product hoeveelheid. (admin kan de product hoeveelheid aanpassen)
 
 # Keuze Front-end Framework
 
@@ -82,8 +90,8 @@ daaruit is gebleken dat voor NOSQl mongodb het meest gebruikt is. Voor sql ga ik
 
 [peiling databases](https://insights.stackoverflow.com/survey/2021#most-popular-technologies-database-prof)
 
-# Data diagram
+<!-- # Data diagram
 ![sql-img](https://user-images.githubusercontent.com/79853948/164265722-031f5f0d-6bbf-43d6-a7c8-5ce85fe5e514.png)
 ![nosql-img](https://user-images.githubusercontent.com/79853948/164265909-753a37d5-ccf2-43c7-bd77-dc9b2b25706f.png)
 
-Met de blauwe kleur geef ik de SQL database aan en groen NOSQL.
+Met de blauwe kleur geef ik de SQL database aan en groen NOSQL. -->

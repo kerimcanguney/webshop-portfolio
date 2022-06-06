@@ -3,11 +3,31 @@ Documentatie S3 Software project
 
 
 # 1. Web application
-Learning outcome: *You design and build user-friendly, full-stack web applications.*
+Learning outcome: You design and build user-friendly, full-stack web applications.
 
 User friendly: You apply basic User experience testing and development techniques.
 
 Full-stack: You design and build a full stack application using commonly accepted front end (Javascript-based framework) and back end techniques (e.g. Object Relational Mapping) choosing and implementing relevant communication protocols and addressing asynchronous communication issues.
+
+**User friendly:**
+
+**Full stack:**
+
+Voor dat ik was begonnen met het programeren ben ik begonnen met het ontwerpen van een [C4-Model](https://github.com/kerimcanguney/webshop-portfolio/blob/main/docs/Web-applicatie.md#c1-context). Hierin staan alle microservices beschreven.
+
+**Front-end**
+
+Keuze/Onderzoek front-end framework heb ik [hier](https://github.com/kerimcanguney/webshop-portfolio/blob/main/docs/Web-applicatie.md#keuze-front-end-framework) beschreven.
+
+De admin website repo kun je [hier](https://github.com/kerimcanguney/websho-admin) vinden.
+
+De customer website repo kun je [hier](https://github.com/kerimcanguney/webshop) vinden.
+
+**Back-end**
+
+Keuze/Onderzoek back-end framework heb ik [hier](https://github.com/kerimcanguney/webshop-portfolio/blob/main/docs/Web-applicatie.md#keuze-back-end-framework) beschreven.
+
+de backend repo kun je [hier](https://github.com/kerimcanguney/webshop-backend) vinden.
 
 # 2. Software Quality:
 

@@ -35,10 +35,15 @@ NoSql is een vrij nieuwere taal gebruikt om te communiceren met een **database w
 
 ## Wanneer nosql en wanneer sql?
 Sql en nosql zijn allebei gemaakt voor hun eigen doeleinden. De ene is niet persee beter dan de ander. Het is maar hoe en waar je het gebruikt.
-##### waar zou je sql kunnen gebruiken?
+#### waar zou je sql kunnen gebruiken?
 sql is het best toegepast bij het opslaan van informatie wat je gestructureerd moet hebben en of wilt linken aan andere informatie. Hierbij kun je denken aan transactionele data. Elk transactie bevat hetzelfde soort informatie en is gelinked aan een b.v account in het systeem. Hierbij zou sql perfect van toepassing zijn vanwege de gestructureerdheid.
-##### waar zou je nosql kunnen gebruiken?
+[bron](https://thorntech.com/sql-vs-nosql/)
+#### waar zou je nosql kunnen gebruiken?
 nosql is het best toegepast bij het opslaan van informatie wat geen structuur heeft. Hierbij kun je denken aan kleding op een website. T-shirts zullen informatie bevatten als kleur, stof en maat, maar een schoen bevat andere informatie als **schoenmaat**. Een T-shirt maat en schoenmaat zijn 2 verschillende soorten informatie wat je niet in de verkeerde producten wilt hebben op je website. Hierbij zou dan NoSql perfect van toepassing zijn vanwege de mogelijkheid voor ongestructureerdheid.
-
+[bron](https://stackoverflow.com/a/3486843)
 ## Conclusie
 Omdat sql en nosql beide pluspunten hebben heb ik bedacht om mijn databases te scheiden waarbij ik een gedeelte sql maak en de ander nosql. Hierbij heb ik bedacht om informatie als accounts, transacties etc in de sql database te onderhouden en informatie als producten onderhoud in nosql. De reden hiervoor is, omdat ik denk dat bij het gebruik van beide talen mijn applicatie veelzijdiger maak en , omdat ik mijn horizon wou verbreden.
+
+
+### overige bronnen
+[bron nosql of sql](https://www.red-gate.com/simple-talk/databases/nosql/how-to-choose-between-sql-and-nosql-databases/)

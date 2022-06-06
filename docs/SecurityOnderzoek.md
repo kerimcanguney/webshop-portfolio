@@ -56,26 +56,10 @@ Dan komen we aan bij het 3de voorzorgs maatregel genaamd **Pepper**. Pepper is h
 
 [bron hashing algoritme](https://docs.microsoft.com/en-us/aspnet/core/security/data-protection/consumer-apis/password-hashing?view=aspnetcore-5-0)
 
-## Authorizeren van een gebruiker
-Authorizeren van een gebruiker is het verlenen van rechten aan een gebruiker, zodat zij bepaalde acties kunnen voeren in onze applicatie. Er zijn 2 type manieren van authorizeren en we gaan ze allebij langs en bespreken de pro's en cons van beide manieren.
 
-De eerste manier is een **Session**. Hierbij krijgt de gebruiker een **Session ID** bij het inloggen wat de applicatie genereert. Ook heeft de applicatie een kopie van deze sessie id om het te controleren. hierbij komt het probleem bij het opslaan van de session id, omdat deze word opgeslagen op één applicatie kunnen andere applicaties van hetzelfde uitgever er niet bij, oftewel je zou opnieuw moeten inloggen.
-
-De tweede manier is een **"JWT"** (json-web-token). Hierbij het inloggen word er niks opgeslagen in de applicatie, de gebruiker krijgt een jwt terug waarbij hij deze kan gebruiken voor authorizatie. Jwt tokens worden opgeslagen in de gebruiker wat problemen kan veroorzaken als het onveilig is opgeslagen. Ook is het **stateless**. Dit betekent dat er verder dan de token zelf niks word bijgehouden om de gebruiker the authorizeren.
-
-om het aftesluiten heb ik een overzichtelijk lijst voor de pro's en cons. 
-
-pros/cons
-* *JWT*
-    - **Scalability**: de jwt word niet opgeslagen op een server waardoor deze op andere domeinen/servers werkt
-    - **Maintainability**: jwt word niet opgeslagen op de server wat memory kan besparen
-* *Session*
-    - **Data visibility/Control**: je weet wie is ingelogd en kunt een bepaalde ingelogde gebruiker gemakkelijk uitschakelen
-    - **Bandwith consumption**: session ids gebruiken heel weinig bandwith, omdat deze klein zijn.
-
-(in het lijst zie je alleen pro's staan, want de cons zijn de voordelen wat ze niet hebben.)
-
-[Bron](https://www.loginradius.com/blog/engineering/guest-post/jwt-vs-sessions)
+## Verschil Authenticatie en Authorizatie
+Authenticeren is het valideren van een gebruiker d.m.v inlog gegevens. Met deze gegevens kan een applicatie vervolgens identificeren wie jij bent.
+Authorizeren aan de andere kant is het verlenen van rechten. Bv alleen een administrator zou alle berichten mogen verwijderen, maar een gebruiker zou alleen zijn eigen berichten kunnen verwijderen en niet die van anderen. Zou een gebruiker een actie willen doen wat niet binnen zijn **rechten** valt passeert hij zo'n authorizatie niet waardoor de actie niet word vericht. 
 
 ## Conclusie
 Uit mijn onderzoek kan ik concluderen dat ik gebruik zal maken van hashing en salt voor het opslaan van de wachtwoorden. Dit methode is uit mijn onderzoek veilig genoeg en voor de hashing algoritme zal ik gebruik maken van HMACSHA-256, omdat deze redelijk nieuw is en zeer vertrouwd. Verder zal ik ook gebruik maken van JWT, omdat deze opzichzelf scaled wat mijn applicatie kan verhelpen van mogelijke problemen op lange termijn.

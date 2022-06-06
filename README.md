@@ -11,6 +11,8 @@ Full-stack: You design and build a full stack application using commonly accepte
 
 **User friendly:**
 
+hoe ik mijn applicatie user friendly heb gemaakt kun je [hier](https://github.com/kerimcanguney/webshop-portfolio/blob/main/docs/Web-applicatie.md#ux) terugvinden
+
 **Full stack:**
 
 Voor dat ik was begonnen met het programeren ben ik begonnen met het ontwerpen van een [C4-Model](https://github.com/kerimcanguney/webshop-portfolio/blob/main/docs/Web-applicatie.md#c1-context). Hierin staan alle microservices beschreven.

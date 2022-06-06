@@ -8,7 +8,7 @@
 -   [Keuze Front-end Framework](#keuze-front-end-framework)
 -   [Keuze Back-end Framework](#keuze-front-end-framework)
 -   [Data Opslag](#keuze-data-opslag)
-
+-   [UX](#ux)
 
 # Conceptuel diagram
 ![conceptdiagram](https://user-images.githubusercontent.com/79853948/164680365-a521b5ad-2595-436f-875e-67510c01bf00.png)
@@ -89,6 +89,26 @@ daaruit is gebleken dat voor NOSQl mongodb het meest gebruikt is. Voor sql ga ik
 ![peiling_image](https://user-images.githubusercontent.com/79853948/164269996-9374b0ae-a11f-47b2-a7c0-9b2c0836977e.png)
 
 [peiling databases](https://insights.stackoverflow.com/survey/2021#most-popular-technologies-database-prof)
+
+# UX
+Voor de gebruiksvriendelijkheid probeer ik de website zo simpel mogelijk te houden.
+### User friendly
+![landingpage](https://user-images.githubusercontent.com/79853948/172265493-dffedc33-2a78-4931-b4a6-693391ee964a.png)
+
+Voor de landing pagina wou ik iets moois maken. Dit komt omdat ik veel webshops heb bezogd en ik merkte dat de "betere" webshops altijd een mooie landing pagina hebben. Ik heb dit geprobeerd zo simpel/elegant te maken om de gebruiker niet te overweldigen met wat ze op beeld te krijgen zien (wat ik een nadeel vond van andere websites).
+
+![nav](https://user-images.githubusercontent.com/79853948/172265576-0193fb98-2dc9-472b-9997-487fee772357.png)
+
+Links hebben we een knop om de navigatie balk te openen en vervolgens te navigeren. De categorien om te bezoeken zijn dan 2 klikken verwijderd.
+
+
+Vervolgens hebben we een simpel overzicht van de opgezochte producten.
+### Laadsnelheid
+![img](https://user-images.githubusercontent.com/79853948/172265070-012052b1-9a74-4554-af81-62fe084bb5bf.png)
+
+Dit is een raport van de website als je hem probeert te bezoeken. Dit is fijn om te hebben want hiermee kun je de performance van je applicatie snel en overzichtelijk zien, waarmee je dus hiermee je code kunt optimaliseren.
+
+
 
 <!-- # Data diagram
 ![sql-img](https://user-images.githubusercontent.com/79853948/164265722-031f5f0d-6bbf-43d6-a7c8-5ce85fe5e514.png)

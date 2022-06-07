@@ -55,6 +55,31 @@ Recognize: Recognition is based on theoretically substantiated awareness of cult
 Take into account: Adapt your communication, working, and behaviour styles to reflect project stakeholders from different cultures.
 Address one of the standard Programming Ethical Guidelines (e.g., ACM Code of Ethics and Professional Conduct) in your work.
 
+##### **Cultuur**
+
+###### **Wat is cultuur**
+
+Cultuur is het gedrag onder een groep in een samenleving. Cultuur heb je op allerlei niveau's, van etnische achtergronden tot hobby's. Een duidelijk verschil in cultuur als je het aan iemand vraagt zal die vaak antwoorden met taal of gerechten alhoewel ik niet geloof dat dat zo zeer klopt, omdat een taal alleen de middel van communiceren is en niet hoe en gerechten zijn meer de middel om je honger te dorsten wat wij dus overal terug zien. Cultuur is het verschil in gedrag. Denk hierbij eerder aan gedrag qua normen. "Is het normaal om te laat te komen?", "Is het gewoonlijk om een cadaeu te brengen op een feest?", "Is het verwacht dat je je schoenen binnen uit doet?". Dat valt voor mij eerder onder cultuur.
+
+###### **wat is mijn cultuur**
+
+Ik ben gegroeid in Nederland maar ik ben opgevoed in een Turkse huishouden. Qua gedrag merk ik vanmezelf niet anders te zijn dan meeste klasgenoten. Behalve als het komt tot sporten. Ik merk dat in de ICT-opleiding een cultuur valt waaronder weinig tot bijna geen sporten. Voor mij is dit een groot verschil aangezien ik een best fanatieke sporter ben. Ik denk dat dit cultuur is ontstaan, omdat meeste tech geïnteresseerde niet veel belang hechten aan fysieke gezondheid / of door een gebrek aan motivatie.
+
+###### **hoe pas je groepscommunicatie aan culturele verschillen**
+
+In ons groep hadden we geen probleem met culturele verschillen, omdat we elkaar al kenden wat groepstaken al soepeler maakte. Voor het werken in een groep maken we gebruik van het "programeren in het engels" door onze methodes, variabelen, bestanden etc engelse benamingen te geven om aan te passen om de huidige moderne cultuur.
+
+##### **Ethiek**
+
+###### **Wat is ethiek**
+
+Ethiek in software engineering is de morale juistheid van gedrag in een groep of de morale juistheid van een applicatie.
+Op text zegt moraliteit niet veel, maar dit is wel heel belangrijk bij het ontwikkelen van een product. Als iets moreel onjuist is zal dit negatieve feedback leveren van de gebruikers of immoreel gedrag binnen een groep zal leiden tot ruzie of een onvoltooid product.
+In software engineering is het daarom belangrijk een goed ethiek/moraliteit te hebben. Om je Ethiek te kunnen verbeteren kun je simpelweg aardiger/bedachtzamer/voorzichtig instellen. 
+
+###### **Welke ethische aspecten spelen een rol in het project**
+
+Bij mijn eigen project zal er geen ethische probleem plaats vinden, omdat mijn applicatie weinig tot niets doet met de gebruikers hun informatie. Voor de groeps project verwacht ik ook ethische problemen, omdat we simpelweg juist met elkaar omgaan en, omdat de project niet moraliteit in twijfel trekt, want we maken een PIM systeem waarbij alleen producten worden aangemaakt.
 # 6. Requirements and Design
 Learning outcome: You analyze (non-functional) requirements, elaborate (architectural) designs and validate them using multiple types of test techniques.
 

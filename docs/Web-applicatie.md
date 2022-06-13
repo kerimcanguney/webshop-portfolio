@@ -109,6 +109,10 @@ Vervolgens hebben we een simpel overzicht van de opgezochte producten.
 Dit is een raport van de website als je hem probeert te bezoeken. Dit is fijn om te hebben want hiermee kun je de performance van je applicatie snel en overzichtelijk zien, waarmee je dus hiermee je code kunt optimaliseren.
 
 
+# Testplan
+om de software qualiteit van mijn applicatie te onderhouden/verbeteren zal ik gebruik maken van de volgende:
+* Unit tests: controlleerd of functies doen vervolgins verwachting werkt
+* Overzichtelijk code: variablen/method namen zeggen wat ze doen, splitsing van code etc
 
 <!-- # Data diagram
 ![sql-img](https://user-images.githubusercontent.com/79853948/164265722-031f5f0d-6bbf-43d6-a7c8-5ce85fe5e514.png)

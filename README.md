@@ -131,10 +131,22 @@ In ons groep hadden we geen probleem met culturele verschillen, omdat we elkaar 
 Ethiek in software engineering is de morale juistheid van gedrag in een groep of de morale juistheid van een applicatie.
 Op text zegt moraliteit niet veel, maar dit is wel heel belangrijk bij het ontwikkelen van een product. Als iets moreel onjuist is zal dit negatieve feedback leveren van de gebruikers of immoreel gedrag binnen een groep zal leiden tot ruzie of een onvoltooid product.
 In software engineering is het daarom belangrijk een goed ethiek/moraliteit te hebben. Om je Ethiek te kunnen verbeteren kun je simpelweg aardiger/bedachtzamer/voorzichtig instellen. 
+In het bedrijf Blizzard was er recent een geval van seksuele intimidaties dit zou je als ethical probleem kunnen zien.
 
 ##### **Welke ethische aspecten spelen een rol in het project**
 
 Bij mijn eigen project zal er geen ethische probleem plaats vinden, omdat mijn applicatie weinig tot niets doet met de gebruikers hun informatie. Voor de groeps project verwacht ik ook ethische problemen, omdat we simpelweg juist met elkaar omgaan en, omdat de project niet moraliteit in twijfel trekt, want we maken een PIM systeem waarbij alleen producten worden aangemaakt.
+
+bronnnen:
+
+[waarom ethics belangrijk zijn](https://www.nerdynaut.com/importance-of-ethics-for-a-software-engineer#:~:text=It%20leads%20employees%20and%20employers,will%20cause%20a%20serious%20problem.)
+    
+[waarom ethics belangrijk zijn](https://online.york.ac.uk/why-ethics-must-be-a-constant-in-software-engineering/)
+    
+[ethical problemen in bedrijf blizzard](https://screenrant.com/activision-blizzard-sexual-harassment-discrimination-lawsuits-2022-status/#:~:text=Two%20lawsuits%20were%20filed%20against,One%20is%20ongoing.&text=Content%20warning%3A%20The%20following%20article,%2C%20sexual%20abuse%2C%20and%20harassment.)
+    
+[ethical problemen in bedrijf blizzard](https://ethicsunwrapped.utexas.edu/game-over-for-activision-blizzards-toxic-culture)
+    
 # 6. Requirements and Design
 Learning outcome: You analyze (non-functional) requirements, elaborate (architectural) designs and validate them using multiple types of test techniques.
 

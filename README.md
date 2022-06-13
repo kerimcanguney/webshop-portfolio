@@ -45,6 +45,7 @@ Choose: You are aware of the most popular agile methods and their underlying agi
 **Wat is agile?**
 Bij agile worden er meerdere oplevering gedaan (iteraties) om een x aantal tijd, waarbij op elk oplevering de stakeholder zijn input (feedback) kan geven. Door deze methode krijgt de stakeholder per oplevering meer inzicht in het process ("wat is nu mogelijk?", "is het haalbaar?", "doet de design aan de stakeholder zijn eisen?", etc).
 
+![](https://fthegeniushome.files.wordpress.com/2019/08/artboard-1402x.png)
 **Agile methoden**
 
 Agile is de process in grote lijnen, maar van binnen in hebben we verschillende interne processen waarin ze verschillen.
@@ -80,12 +81,26 @@ Bij XP (extreme programming) word er een nadruk gelegd op het produceren van een
 **Hoe hebben wij gebruik gemaakt van agile?**
 
 Wij maken gebruik van scrum, omdat deze goed aansluit op het les systeem, want deze werkt in sprint opleveringen. Na elke oplevering moeten we ook retrospectives opleveren, wat heel erg helpt, want je kijkt hierbij terug in het process van toen naar nu waardoor je verbeteringen kunt maken in de volgende sprint oplevering. Elke dag beginnen we met een standup waarmee we bespreken wat we hebben gedaan en wat we te doen hebben. De taken wat we te doen hebben noteren we als [*Issues*](https://github.com/kerimcanguney/WOC-Front-End/issues) in github wat we vervolgens kunnen bekijken op [*github projects*](https://github.com/users/kerimcanguney/projects/1)
+
 ![scrum-img](https://scrumorg-website-prod.s3.amazonaws.com/drupal/inline-images/2021-01/scrumorg-scrum-framework-3000.png)
 
 # 4. CI/CD
 Learning outcome: You design and implement a (semi)automated software release process that matches the needs of the project context.
 
 Design and implement: You design a release process and implement a continuous integration and deployment solution (using e.g. Gitlab CI and Docker).
+
+**CI/CD uitleg**
+Continues integration(ci) en continues delivery/ continues deployment(cd) is een methode voor het verbeteren van de process bij het maken van software. Bij de CI word de software getest of het werkt en werkt op basis van de gemaakte tests. CD word op basis van de CI aangeroepen om de software te gebruiken in een omgeving als een server of docker image.
+
+CI/CD Back-end
+Bij de CD van een microservice (Account-API) in mijn back-end ben ik problemen opgelopen waarbij ik errors krijg bij het creeëren van een docker image. Ik heb hier veel tijd aan besteed en hulp gevraagd aan mijn groepsgenoten, maar zijn we uiteindelijk niet aan een oplossing toe gekomen. Om toch aan te kunnen tonen dat ik de CD wel kan toepassen zal ik deze aantonen door de andere microservice (Product-api) wel te gebruiken. 
+
+Voor de CI ben ik van plan om codescans te gebruiken en unit tests af te leggen en alleen voor de product api zal ik een docker image maken.
+
+CI/CD Front-end
+Voor mijn front end word er codescans gedaan en unit-tests afgelegd om vervolgens een docker image te maken van de applicatie waarbij vervolgens andere systemen deze image kan uitvoeren.
+
+[workflows front-end](https://github.com/kerimcanguney/webshop/tree/main/.github/workflows)
 
 # 5. Cultural differences and ethics
 Learning outcome: You recognize and take into account cultural differences between project stakeholders and ethical aspects in software development.
@@ -128,7 +143,8 @@ Multiple types of test techniques: You apply user acceptance testing and stakeho
 Met onze stakeholders hebben we redelijk goed contact gehad waarbij we ons app tonen, plan bespreken en tot slot feedback vragen. 
 Hierbij was het plannen op het begin toch wat lastiger, omdat we bij het maken de opdracht creative vrijheid kregen.
 
-Om te starten waren we begonnen met het maken van user stories
+Om te starten waren we begonnen met het maken van user stories.
+
 ![https://user-images.githubusercontent.com/101703190/172395333-e4fcf325-a833-4378-ba0d-2e01db2af952.png](https://user-images.githubusercontent.com/101703190/172395333-e4fcf325-a833-4378-ba0d-2e01db2af952.png)
 
 Dit zijn voornamelijk functionele aspecten. De userstories werden vervolgens besproken met de stakeholder en vervolgens aangepast aan de eisen van hen.
@@ -158,6 +174,8 @@ Related: Business processes during which the software that you are developing wi
 or
 
 Business processes needed for the success of your software development project (e.g., product release, market release, financial assurance).
+
+Zie [groeps verslag](https://github.com/kerimcanguney/webshop-portfolio/blob/main/docs/BusinessProcess.md) om het business process/documentatie te vinden.
 
 # 8. Professional
 Learning outcome: You act in a professional manner during software development and learning.

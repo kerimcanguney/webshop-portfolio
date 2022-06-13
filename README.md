@@ -37,6 +37,8 @@ You use software tooling and methodology that continuously monitors and improve 
 
 Tooling and methodology: Carry out, monitor and report on unit integration, regression and system tests, with attention for security and performance aspects, as well as applying static code analysis and code reviews.
 
+zie [test plan](https://github.com/kerimcanguney/webshop-portfolio/blob/main/docs/Web-applicatie.md#testplan) voor de documentatie.
+
 # 3. Agile method
 Learning outcome: You choose and implement the most suitable agile software development method for your software project.
 

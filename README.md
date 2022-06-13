@@ -127,3 +127,13 @@ Professional manner:
 You actively ask and apply feedback from stakeholders and advise them on the most optimal technical and design (architectural) solutions.
 
 You choose and substantiate solutions for a given problem.
+
+**Individueel project**
+Bij het persoonlijke project heb ik geprobeerd zoveel mogelijk feedpulse gesprekken te nemen. Bij deze gesprekken nam ik altijd notities op, maar heb ik weliswaar feedpulse vergeten in te vullen. De feedback is wel genoteerd en altijd meegenomen naar het volgende gesprek. 
+De feedback wat word gegeven probeer ik altijd te verwerken en stel zou ik problemen technisch of qua design oplopen, bespreek ik deze ten allen tijden met de docent.
+
+
+**Groeps project**
+Bij het groepsproject speelde ik de leidende rol. Elke dinsdag 'smorgens hield ik een scrum meeting waarbij we dan de user stories/progres van vorige week/huidige problem besproken. Al hoewel de helft van ons groepje laterin de semester met de opleiding wouden stoppen probeerde ik ze alsnog op een of ander manier te betrekken.
+
+Ook als leider leidde ik de video gesprekken met de klant waarbij we de progressies bespraken. De gesprekken eindigden altijd met een stuk feedback wat we uiteindelijk noteerden als een *issue* in onze repo wat we dan later konden op pikken.

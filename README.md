@@ -85,6 +85,28 @@ Learning outcome: You analyze (non-functional) requirements, elaborate (architec
 
 Multiple types of test techniques: You apply user acceptance testing and stakeholder feedback to validate the quality of the requirements. You evaluate the quality of the design (e.g., by testing or prototyping) taking into account the formulated quality properties like security and performance.
 
+Met onze stakeholders hebben we redelijk goed contact gehad waarbij we ons app tonen, plan bespreken en tot slot feedback vragen. 
+Hierbij was het plannen op het begin toch wat lastiger, omdat we bij het maken de opdracht creative vrijheid kregen.
+
+Om te starten waren we begonnen met het maken van user stories
+![https://user-images.githubusercontent.com/101703190/172395333-e4fcf325-a833-4378-ba0d-2e01db2af952.png](https://user-images.githubusercontent.com/101703190/172395333-e4fcf325-a833-4378-ba0d-2e01db2af952.png)
+
+Dit zijn voornamelijk functionele aspecten. De userstories werden vervolgens besproken met de stakeholder en vervolgens aangepast aan de eisen van hen.
+De user stories zijn ook terug te vinden in onze repo's waarbij we ze hebben toegevoegd als [Issue's](https://github.com/users/kerimcanguney/projects/1)
+
+verder hebben we ook designs gemaakt op basis van wat de stakeholders ons hebben laten zien van hun applicatie.
+![design-a](https://user-images.githubusercontent.com/101703190/172389533-02a04491-85db-4216-983c-3b4bf143ce46.jpg)
+
+![design-b](https://user-images.githubusercontent.com/101703190/172389569-5916de2b-1ffd-4072-8b8a-7d970a325cae.jpg)
+
+Om de kwaliteit aan te kunnen tonen hebben wij een aantal tests geprogrammeerd om de back-end te testen om bv functionaliteit te garanderen. Ook maken we gebruik van code scans. Dit is een scan wat word gedaan over de hele code en kijkt hierbij of er "orderlijke" fouten zijn en vermeld deze in onze [repo](https://github.com/kerimcanguney/WOC-Back-End), zodat wij deze later kunnen op pikken en fixen. Uiteindelijk maken we ook gebruik van de feedback wat we krijgen om de applicatie op hun bepaalde punten te verbeteren.
+
+**Conclusie**
+Ik heb geleerd dat ontwerpen handiger is dan dat ik gedacht had. Als we de ontwerpen een nadruk hadden gemaakt zouden we zeker weten sneller/verder vooruit kunnen werken. 
+ook zou ik de tools voor de front-end designs meer hadden willen bespreken om het gemakkelijker te maken, omdat we als groep zijnde lastig te werken vonden met de huidige library wat we nu gebruikten wat nochal complex was.
+
+Al met al zou ik volgende keer voornamelijk functionaliteit bespreken met de klant, onze ontwerpen tonen, meer contact momenten voor *groen licht* op bepaalde vooruitgang(bv mailtje met een screenshot om kort hun feedback te krijgen) en tot slot meer tijd erin steken.
+
 # 7. Business processes
 Learning outcome: You analyze and describe simple business processes that are related to your project.
 

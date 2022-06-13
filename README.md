@@ -42,6 +42,46 @@ Learning outcome: You choose and implement the most suitable agile software deve
 
 Choose: You are aware of the most popular agile methods and their underlying agile principles. Your choice of a method is motivated and based on well-defined selection criteria and context analyses.
 
+**Wat is agile?**
+Bij agile worden er meerdere oplevering gedaan (iteraties) om een x aantal tijd, waarbij op elk oplevering de stakeholder zijn input (feedback) kan geven. Door deze methode krijgt de stakeholder per oplevering meer inzicht in het process ("wat is nu mogelijk?", "is het haalbaar?", "doet de design aan de stakeholder zijn eisen?", etc).
+
+**Agile methoden**
+
+Agile is de process in grote lijnen, maar van binnen in hebben we verschillende interne processen waarin ze verschillen.
+
+**Scrum**
+
+Scrum is een methode wat ook de meest populaire methode is voor agile. In dit process word er een dagelijkse meeting gehouden. De scrum master (leider) legt uit wat er te doen valt en splits het werk in gedeeltes onder de groep. Wat er doen valt word ook genoteerd in de backlog zodat de groepsleden kunnen zien wat er nog moet gebeuren en waaraan hij/zij aan zou kunnen werken. Volgende meeting word er besproken wat er noch te doen valt EN word er een retrospective gehouden ("heeft iedereen zijn taak kunnen doen?", "liepen we tegen problemen aan?", etc).
+
+[wat is scrum?](https://www.scrum.org/resources/what-is-scrum)
+
+**Kanban**
+
+Met kanban word er een nadruk gelegd om werk af te krijgen en kan de grondbeginselen verdeeld worden in 2 type principes.
+- Change management principles:
+    Begin met wat je al zeker weet,
+    ga akkoord met iteratieve, evolutionaire veranderingen na te streven,
+    moedig de handeling van leiderschap op alle niveaus
+- Service delivery principles:
+    Focus op de stakeholders eisen en verwachtingen,
+    onderhoud het, werk niet de werkers,
+    regelmatig de netwerk van diensten controleren.
+
+[bron kanbanize](https://kanbanize.com/kanban-resources/getting-started/what-is-kanban)
+
+**Extreme programming**
+
+Bij XP (extreme programming) word er een nadruk gelegd op het produceren van een hogere qualiteit software. XP is het best toepasselijk bij het produceren van een software wat onduidelijke of veel verandere eisen heeft. Hierbij worden er iteraties gedaan om de 1-2 weken waarbij in het werk process voornaamlijk kleine simpele stukken code bouwt en meteen test, om uiteindelijk de kleine stukjes tot een geheel te vormen.
+
+[extreme programming.org](http://www.extremeprogramming.org/when.html)
+[agilealliance.org](https://www.agilealliance.org/glossary/xp)
+[video uitleg](https://www.youtube.com/watch?v=hbFOwqYIOcU)
+
+**Hoe hebben wij gebruik gemaakt van agile?**
+
+Wij maken gebruik van scrum, omdat deze goed aansluit op het les systeem, want deze werkt in sprint opleveringen. Na elke oplevering moeten we ook retrospectives opleveren, wat heel erg helpt, want je kijkt hierbij terug in het process van toen naar nu waardoor je verbeteringen kunt maken in de volgende sprint oplevering. Elke dag beginnen we met een standup waarmee we bespreken wat we hebben gedaan en wat we te doen hebben. De taken wat we te doen hebben noteren we als [*Issues*](https://github.com/kerimcanguney/WOC-Front-End/issues) in github wat we vervolgens kunnen bekijken op [*github projects*](https://github.com/users/kerimcanguney/projects/1)
+![scrum-img](https://scrumorg-website-prod.s3.amazonaws.com/drupal/inline-images/2021-01/scrumorg-scrum-framework-3000.png)
+
 # 4. CI/CD
 Learning outcome: You design and implement a (semi)automated software release process that matches the needs of the project context.
 
@@ -136,4 +176,4 @@ De feedback wat word gegeven probeer ik altijd te verwerken en stel zou ik probl
 **Groeps project**
 Bij het groepsproject speelde ik de leidende rol. Elke dinsdag 'smorgens hield ik een scrum meeting waarbij we dan de user stories/progres van vorige week/huidige problem besproken. Al hoewel de helft van ons groepje laterin de semester met de opleiding wouden stoppen probeerde ik ze alsnog op een of ander manier te betrekken.
 
-Ook als leider leidde ik de video gesprekken met de klant waarbij we de progressies bespraken. De gesprekken eindigden altijd met een stuk feedback wat we uiteindelijk noteerden als een *issue* in onze repo wat we dan later konden op pikken.
+Ook als leider leidde ik de video gesprekken met de klant waarbij we de progressies bespraken. De gesprekken eindigden altijd met een stuk feedback wat we uiteindelijk noteerden als een *issue* in onze repo wat we dan later konden op pikken. Verder hield ik ook de dagelijkse stand ups waarbij ik de taken verdeelde en onderlinge problemen verhelpen .

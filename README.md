@@ -102,6 +102,7 @@ verder hebben we ook designs gemaakt op basis van wat de stakeholders ons hebben
 Om de kwaliteit aan te kunnen tonen hebben wij een aantal tests geprogrammeerd om de back-end te testen om bv functionaliteit te garanderen. Ook maken we gebruik van code scans. Dit is een scan wat word gedaan over de hele code en kijkt hierbij of er "orderlijke" fouten zijn en vermeld deze in onze [repo](https://github.com/kerimcanguney/WOC-Back-End), zodat wij deze later kunnen op pikken en fixen. Uiteindelijk maken we ook gebruik van de feedback wat we krijgen om de applicatie op hun bepaalde punten te verbeteren.
 
 **Conclusie**
+
 Ik heb geleerd dat ontwerpen handiger is dan dat ik gedacht had. Als we de ontwerpen een nadruk hadden gemaakt zouden we zeker weten sneller/verder vooruit kunnen werken. 
 ook zou ik de tools voor de front-end designs meer hadden willen bespreken om het gemakkelijker te maken, omdat we als groep zijnde lastig te werken vonden met de huidige library wat we nu gebruikten wat nochal complex was.
 

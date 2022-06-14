@@ -1,6 +1,15 @@
 # webshop-portfolio
 Documentatie S3 Software project
 
+# Inhoudsopgave
+*   [Leeruitkomst 1: Web application](#1-web-application)
+*   [Leeruitkomst 2: Software quality](#2-software-quality)
+*   [Leeruitkomst 3: Agile method](#3-agile-method)
+*   [Leeruitkomst 4: CI/CD](#4-cicd)
+*   [Leeruitkomst 5: Cultural differences and ethics](#5-cultural-differences-and-ethics)
+*   [Leeruitkomst 6: Requiremens and design](#6-requirements-and-design)
+*   [Leeruitkomst 7: Business process](#7-business-processes)
+*   [Leeruitkomst 8: Professional](#8-professional)
 
 # 1. Web application
 Learning outcome: You design and build user-friendly, full-stack web applications.
@@ -31,7 +40,8 @@ Keuze/Onderzoek back-end framework heb ik [hier](https://github.com/kerimcangune
 
 de backend repo kun je [hier](https://github.com/kerimcanguney/webshop-backend) vinden.
 
-# 2. Software Quality:
+[Back to top](#webshop-portfolio)
+# 2. Software Quality
 
 You use software tooling and methodology that continuously monitors and improve the software quality during software development.
 
@@ -39,6 +49,7 @@ Tooling and methodology: Carry out, monitor and report on unit integration, regr
 
 zie [test plan](https://github.com/kerimcanguney/webshop-portfolio/blob/main/docs/Web-applicatie.md#testplan) voor de documentatie.
 
+[Back to top](#webshop-portfolio)
 # 3. Agile method
 Learning outcome: You choose and implement the most suitable agile software development method for your software project.
 
@@ -86,6 +97,8 @@ Wij maken gebruik van scrum, omdat deze goed aansluit op het les systeem, want d
 
 ![scrum-img](https://scrumorg-website-prod.s3.amazonaws.com/drupal/inline-images/2021-01/scrumorg-scrum-framework-3000.png)
 
+[Back to top](#webshop-portfolio)
+
 # 4. CI/CD
 Learning outcome: You design and implement a (semi)automated software release process that matches the needs of the project context.
 
@@ -103,6 +116,8 @@ CI/CD Front-end
 Voor mijn front end word er codescans gedaan en unit-tests afgelegd om vervolgens een docker image te maken van de applicatie waarbij vervolgens andere systemen deze image kan uitvoeren.
 
 [workflows front-end](https://github.com/kerimcanguney/webshop/tree/main/.github/workflows)
+
+[Back to top](#webshop-portfolio)
 
 # 5. Cultural differences and ethics
 Learning outcome: You recognize and take into account cultural differences between project stakeholders and ethical aspects in software development.
@@ -148,7 +163,9 @@ bronnnen:
 [ethical problemen in bedrijf blizzard](https://screenrant.com/activision-blizzard-sexual-harassment-discrimination-lawsuits-2022-status/#:~:text=Two%20lawsuits%20were%20filed%20against,One%20is%20ongoing.&text=Content%20warning%3A%20The%20following%20article,%2C%20sexual%20abuse%2C%20and%20harassment.)
     
 [ethical problemen in bedrijf blizzard](https://ethicsunwrapped.utexas.edu/game-over-for-activision-blizzards-toxic-culture)
-    
+
+[Back to top](#webshop-portfolio)
+
 # 6. Requirements and Design
 Learning outcome: You analyze (non-functional) requirements, elaborate (architectural) designs and validate them using multiple types of test techniques.
 
@@ -178,6 +195,8 @@ ook zou ik de tools voor de front-end designs meer hadden willen bespreken om he
 
 Al met al zou ik volgende keer voornamelijk functionaliteit bespreken met de klant, onze ontwerpen tonen, meer contact momenten voor *groen licht* op bepaalde vooruitgang(bv mailtje met een screenshot om kort hun feedback te krijgen) en tot slot meer tijd erin steken.
 
+[Back to top](#webshop-portfolio)
+
 # 7. Business processes
 Learning outcome: You analyze and describe simple business processes that are related to your project.
 
@@ -190,6 +209,8 @@ or
 Business processes needed for the success of your software development project (e.g., product release, market release, financial assurance).
 
 Zie [groeps verslag](https://github.com/kerimcanguney/webshop-portfolio/blob/main/docs/BusinessProcess.md) om het business process/documentatie te vinden.
+
+[Back to top](#webshop-portfolio)
 
 # 8. Professional
 Learning outcome: You act in a professional manner during software development and learning.
@@ -209,3 +230,5 @@ De feedback wat word gegeven probeer ik altijd te verwerken en stel zou ik probl
 Bij het groepsproject speelde ik de leidende rol. Elke dinsdag 'smorgens hield ik een scrum meeting waarbij we dan de user stories/progres van vorige week/huidige problem besproken. Al hoewel de helft van ons groepje laterin de semester met de opleiding wouden stoppen probeerde ik ze alsnog op een of ander manier te betrekken.
 
 Ook als leider leidde ik de video gesprekken met de klant waarbij we de progressies bespraken. De gesprekken eindigden altijd met een stuk feedback wat we uiteindelijk noteerden als een *issue* in onze repo wat we dan later konden op pikken. Verder hield ik ook de dagelijkse stand ups waarbij ik de taken verdeelde en onderlinge problemen verhelpen .
+
+[Back to top](#webshop-portfolio)

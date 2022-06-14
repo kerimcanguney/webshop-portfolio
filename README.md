@@ -141,8 +141,9 @@ In ons groep hadden we geen probleem met culturele verschillen, omdat we elkaar 
 
 Ethiek in software engineering is de morale juistheid van gedrag in een groep of de morale juistheid van een applicatie.
 Op text zegt moraliteit niet veel, maar dit is wel heel belangrijk bij het ontwikkelen van een product. Als iets moreel onjuist is zal dit negatieve feedback leveren van de gebruikers of immoreel gedrag binnen een groep zal leiden tot ruzie of een onvoltooid product.
-In software engineering is het daarom belangrijk een goed ethiek/moraliteit te hebben. Om je Ethiek te kunnen verbeteren kun je simpelweg aardiger/bedachtzamer/voorzichtig instellen. 
-In het bedrijf Blizzard was er recent een geval van seksuele intimidaties dit zou je als ethical probleem kunnen zien.
+In software engineering is het daarom belangrijk een goed ethiek/moraliteit te hebben. Om je Ethiek te kunnen verbeteren kun je simpelweg aardiger/bedachtzamer/voorzichtig instellen. Hou het contact met je collega's strict professioneel.
+
+In het bedrijf Activision Blizzard was er op 20 July 2020 een rechtzaak ingediend vanwege ongepast gedrag. Om meer precies te zijn sexueele intimidatie van mannelijke collega's tot de vrouwen. Dit is een perfect voorbeeld van on-ethisch gedrag in een werk omgeving. Dit gedrag zorgde ervoor dat voornamelijk vrouwelijke collega's onveilig en niet welkom voelden in het bedrijf. Wat alleen negatief invloed heeft bij het software ontwikkel process.
 
 ##### **Welke ethische aspecten spelen een rol in het project**
 

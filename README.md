@@ -40,7 +40,8 @@ Keuze/Onderzoek back-end framework heb ik [hier](https://github.com/kerimcangune
 
 de backend repo kun je [hier](https://github.com/kerimcanguney/webshop-backend) vinden.
 
-[Back to top](#webshop-portfolio)
+[:point_up: Back to top](#webshop-portfolio)
+
 # 2. Software Quality
 
 You use software tooling and methodology that continuously monitors and improve the software quality during software development.
@@ -49,7 +50,8 @@ Tooling and methodology: Carry out, monitor and report on unit integration, regr
 
 zie [test plan](https://github.com/kerimcanguney/webshop-portfolio/blob/main/docs/Web-applicatie.md#testplan) voor de documentatie.
 
-[Back to top](#webshop-portfolio)
+[:point_up: Back to top](#webshop-portfolio)
+
 # 3. Agile method
 Learning outcome: You choose and implement the most suitable agile software development method for your software project.
 
@@ -97,7 +99,7 @@ Wij maken gebruik van scrum, omdat deze goed aansluit op het les systeem, want d
 
 ![scrum-img](https://scrumorg-website-prod.s3.amazonaws.com/drupal/inline-images/2021-01/scrumorg-scrum-framework-3000.png)
 
-[Back to top](#webshop-portfolio)
+[:point_up: Back to top](#webshop-portfolio)
 
 # 4. CI/CD
 Learning outcome: You design and implement a (semi)automated software release process that matches the needs of the project context.
@@ -117,7 +119,7 @@ Voor mijn front end word er codescans gedaan en unit-tests afgelegd om vervolgen
 
 [workflows front-end](https://github.com/kerimcanguney/webshop/tree/main/.github/workflows)
 
-[Back to top](#webshop-portfolio)
+[:point_up: Back to top](#webshop-portfolio)
 
 # 5. Cultural differences and ethics
 Learning outcome: You recognize and take into account cultural differences between project stakeholders and ethical aspects in software development.
@@ -164,7 +166,8 @@ bronnnen:
     
 [ethical problemen in bedrijf blizzard](https://ethicsunwrapped.utexas.edu/game-over-for-activision-blizzards-toxic-culture)
 
-[Back to top](#webshop-portfolio)
+[:point_up: Back to top](#webshop-portfolio)
+
 
 # 6. Requirements and Design
 Learning outcome: You analyze (non-functional) requirements, elaborate (architectural) designs and validate them using multiple types of test techniques.
@@ -195,7 +198,7 @@ ook zou ik de tools voor de front-end designs meer hadden willen bespreken om he
 
 Al met al zou ik volgende keer voornamelijk functionaliteit bespreken met de klant, onze ontwerpen tonen, meer contact momenten voor *groen licht* op bepaalde vooruitgang(bv mailtje met een screenshot om kort hun feedback te krijgen) en tot slot meer tijd erin steken.
 
-[Back to top](#webshop-portfolio)
+[:point_up: Back to top](#webshop-portfolio)
 
 # 7. Business processes
 Learning outcome: You analyze and describe simple business processes that are related to your project.
@@ -210,7 +213,8 @@ Business processes needed for the success of your software development project (
 
 Zie [groeps verslag](https://github.com/kerimcanguney/webshop-portfolio/blob/main/docs/BusinessProcess.md) om het business process/documentatie te vinden.
 
-[Back to top](#webshop-portfolio)
+[:point_up: Back to top](#webshop-portfolio)
+
 
 # 8. Professional
 Learning outcome: You act in a professional manner during software development and learning.
@@ -231,4 +235,5 @@ Bij het groepsproject speelde ik de leidende rol. Elke dinsdag 'smorgens hield i
 
 Ook als leider leidde ik de video gesprekken met de klant waarbij we de progressies bespraken. De gesprekken eindigden altijd met een stuk feedback wat we uiteindelijk noteerden als een *issue* in onze repo wat we dan later konden op pikken. Verder hield ik ook de dagelijkse stand ups waarbij ik de taken verdeelde en onderlinge problemen verhelpen .
 
-[Back to top](#webshop-portfolio)
+[:point_up: Back to top](#webshop-portfolio)
+

@@ -73,15 +73,7 @@ Scrum is een methode wat ook de meest populaire methode is voor agile. In dit pr
 
 **Kanban**
 
-Met kanban word er een nadruk gelegd om werk af te krijgen en kan de grondbeginselen verdeeld worden in 2 type principes.
-- Change management principles:
-    Begin met wat je al zeker weet,
-    ga akkoord met iteratieve, evolutionaire veranderingen na te streven,
-    moedig de handeling van leiderschap op alle niveaus
-- Service delivery principles:
-    Focus op de stakeholders eisen en verwachtingen,
-    onderhoud het, werk niet de werkers,
-    regelmatig de netwerk van diensten controleren.
+Bij kanban word er voornamelijk gekeken wat er NU gedaan kan worden. Bij het werken in kanban word er een board gebruikt. Deze board bestaat uit meestal 3 rijen: To-Do, Doing en Done. In kanban wil je zo min mogelijk items in *doing* hebben zodat we werkdruk kunnen minimaliseren. Kanban heeft een vrij simpele workflow: Hebben we plek in onze to-do lijst? ja? plak er maar een item bij zo niet help maar een andere lid met zijn item. dit process word heletijd herhaald tot dat de backlog leeg is.
 
 [bron kanbanize](https://kanbanize.com/kanban-resources/getting-started/what-is-kanban)
 

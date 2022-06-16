@@ -1,15 +1,14 @@
 # Reflectie
 
-**Inleiding**
+### **Inleiding**
 
 In dit semester heb ik gewerkt aan de IP (individueele project) en de GP (groeps proejct) waarbij er aantal dingen goed en fout gingen. In dit verslag zal ik afgaan wat ik persoonlijk vond wat goed ging en wat fout ging en wat ik volgende keer zou doen.
 
-**wat ging er goed**
+### **wat ging er goed**
 
 Als groep hebben we regelmatig contact met elkaar waarbij iedereen wel bereikbaar is. We hadden aantal groepsregels opgelegd waardoor we op een professionele wijze met elkaar omgingen bij het werken. Dit hield in het melden van je afwezigheid/aanwezigheid, op de hoogte houden van problemen en melden van zijn progressie op het werk. Ook hebben we redelijk vaak contact gehad met de stakeholders waarbij we ons progressie bespraken, prototypes toonden en feedback vroegen. Verder hebben we goed in groepsverband kunnen werken.
 
-**wat ging er slecht**
-
+### **wat ging er slecht**
 
 **Agile werken**
 
@@ -29,7 +28,7 @@ Ik heb gemerkt bij het GP dat er meer nadruk gelegd mocht worden op het priotise
 
 Tot slot vind ik dat het een dom keuze was om geen gebruik te maken van een css framework/library. De keus om het niet te gebruiken was, omdat ik dacht was dat de css framework/library ons zou beperken in bepaalde aspecten. Dit is zeker niet het geval en zou juist het tegendeel bewijzen zouden wij het wel gebruikt hebben.
 
-**wat heb ik hiervan geleerd?**
+### **wat heb ik hiervan geleerd?**
 
 Ik heb geleerd dat ik voor de volgende keer beter vooruit moet denken en actief stappen moet zetten. Ontwerpen maken is een heel goed manier om ideeën uit te werken en goed te visualizeren. Met ontwerpen kun je voor je zelf een goed beeld vormen voor wat je te doen staat wat heel hulpzaam is bij het software ontwikkelings process.
 

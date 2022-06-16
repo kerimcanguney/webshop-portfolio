@@ -12,17 +12,21 @@ Als groep hebben we regelmatig contact met elkaar waarbij iedereen wel bereikbaa
 
 
 **Agile werken**
+
 In het groep hebben we bepaalde momenten gehad waarbij bepaalde groepslid geen taken opnam, dit zou inprincipe niet mijn probleem moeten zijn, maar mijn handeling hierbij was wel fout. Ik heb als "groeps leider" zijnde geprobeerd om de groepslid aan te sturen om te werken aan bepaalde functionaliteiten. Dit valt niet onder Agile, omdat agile inhoud dat de groepsleden zelf initiatief moeten tonen door zelf een taak op te pikken. 
 
 **Software ontwikkelings process**
+
 Verder vind ik ook dat ik meer bezig kon zijn met ontwerpen (denk hierbij aan flowcharts en front-end designs). Ik heb gemerkt dat zodra zulke ontwerpen worden gemaakt en vervolgens worden gebruikt bij het software ontwikkelings process, dat deze veel effiecenter verloopt EN geeft deze een duidelijker beeld naar het eindproduct.
 
 **Keuze agile methode**
+
 Ook vind ik dat we voor de volgende keer misschien een ander agile methode kunnen gebruiken. Bij het onderzoeken van agile processen hebben we gekozen voor Scrum, omdat meeste al bekend waren met deze methode en omdat het de methode is wat door school gekozen is. Zelf in retrospect vind ik dat bij verder onderzoek dat kanban waarschijnlijk een betere methode zal zijn bij het maken van een applicatie.
 
 Ik heb gemerkt bij het GP dat er meer nadruk gelegd mocht worden op het priotiseren van minder onderdelen tegelijkertijd en werken op deze. Waarbij het afmaken van een onderdeel de bijdragers van dit de andere helpen. Ik denk dat als we deze systeem hadden gebruikt dat we een veel betere product konden opleveren vanwege de overloading van bepaalde groepsgenoten die vast kunnen lopen op bepaalde onderdelen.
 
 **Ontwikkelings process front-end**
+
 Tot slot vind ik dat het een dom keuze was om geen gebruik te maken van een css framework/library. De keus om het niet te gebruiken was, omdat ik dacht was dat de css framework/library ons zou beperken in bepaalde aspecten. Dit is zeker niet het geval en zou juist het tegendeel bewijzen zouden wij het wel gebruikt hebben.
 
 **wat heb ik hiervan geleerd?**

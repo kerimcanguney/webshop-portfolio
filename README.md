@@ -20,7 +20,7 @@ Full-stack: You design and build a full stack application using commonly accepte
 
 **User friendly:**
 
-hoe ik mijn applicatie user friendly heb gemaakt kun je [hier](https://github.com/kerimcanguney/webshop-portfolio/blob/main/docs/Web-applicatie.md#ux) terugvinden
+hoe ik mijn applicatie user friendly heb gemaakt kun je terug vinden in mijn documentatie over hoe ik mijn applicatie user friendly heb gemaakt [User friendly docs](https://github.com/kerimcanguney/webshop-portfolio/blob/main/docs/Web-applicatie.md#ux).
 
 **Full stack:**
 
@@ -39,6 +39,14 @@ De customer website repo kun je [hier](https://github.com/kerimcanguney/webshop)
 Keuze/Onderzoek back-end framework heb ik [hier](https://github.com/kerimcanguney/webshop-portfolio/blob/main/docs/Web-applicatie.md#keuze-back-end-framework) beschreven.
 
 de backend repo kun je [hier](https://github.com/kerimcanguney/webshop-backend) vinden.
+
+**groeps project**
+
+Voor het GP ik heb voornamelijk gewerkt aan de front-end functionaliteit. Ik heb hierbij designs gemaakt en vervolgens proberen te implementeren. Verder heb ik qua front-end functionaliteit een inlog/verificatie systeem gemaakt wat ik vervolgens heb gekoppeld in de back-end. In de back-end heb ik zelf nog geholpen met de logica te designen met nadruk op de logica op de producten.
+
+[GP Front-end](https://github.com/kerimcanguney/WOC-Front-End)
+
+[GP Back-end](https://github.com/kerimcanguney/WOC-Back-End)
 
 [:point_up: Back to top](#webshop-portfolio)
 

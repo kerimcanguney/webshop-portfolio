@@ -51,7 +51,7 @@ Met mijn applicatie ben ik tegen paar problemen aangelopen waarbij ik het niet k
 
 ### Docker images
 
-Voor een van mijn back-end micro services (account-api) was het niet mogelijk om een image te kunnen maken. Ik kreeg hierbij meerdere foutmeldingen waarbij met de hulp van mijn klasgenoten er niet achter konden komen wat de oorzaak was van het probleem. Toch heb ik wel kunnen bewijzen dat ik een image kan bouwen en kan deployen op docker. Met de front-end heb ik een een ge-automatiseerde systeem opgezet waaronder codescans en en dependency's er ook een image word gebouwd en meteen word geplaatst op dockerhub. Deze image is te downloaden en vervolgens te deployen op je local systeem.
+Voor een van mijn back-end micro services (account-api) was het niet mogelijk om een image te kunnen maken. Ik kreeg hierbij meerdere foutmeldingen waarbij met de hulp van mijn klasgenoten er niet achter konden komen wat de oorzaak was van het probleem. Toch heb ik wel kunnen bewijzen dat ik een image kan bouwen en kan deployen op docker. Met de front-end heb ik een een ge-automatiseerde systeem opgezet waaronder codescans en en dependency's er ook een image word gebouwd en meteen word geplaatst op dockerhub. Deze image is te downloaden en vervolgens te deployen op je local systeem. (Zie [documentatie over docker](https://github.com/kerimcanguney/webshop-portfolio/blob/main/docs/BusinessProcess.md) voor onderzoek)
 
 ### Testing back-end
 

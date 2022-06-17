@@ -113,4 +113,10 @@ Met github actions kun je de applicatie uitvoeren op github waarbij we ook de te
 
 Bij het niet behalen van een test zal ik simpelweg de probleem moeten vinden door middel van de testlog te zoeken/debuggen. Zodra ik het probleem vind los ik deze meteen op. Vervolgens push ik de oplossing aan de branch en controlleer ik het of het dit keer wel werkt. Zo niet herhaal ik het process.
 
+**Mijn testen in vs**
+
+Voor de back-end api heb ik eental unit tests geschreven. Wat ik helaas niet kon uitvoeren via github actions.
+
+![tests](https://user-images.githubusercontent.com/79853948/174254802-7b57a1f9-15bb-4e69-afcd-a6bc5be121f4.png)
+
 

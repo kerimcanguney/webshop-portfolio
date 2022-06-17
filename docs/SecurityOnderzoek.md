@@ -70,6 +70,10 @@ Bij het testen gaf ik het volgende aan de *"hacker"*:
 - De uiteindelijke hash
 - De toegepaste salt
 
+Dit zou de hacker dan te zien krijgen
+
+![image](https://user-images.githubusercontent.com/79853948/174259278-747a32e1-fa2d-4afc-baef-d648dd6de0b9.png)
+
 Met deze informatie probeerde de *hacker* vervolgens bepaalde wachtwoord kraak applicaties en kwamen we uiteindelijk op geen resultaat.
 Dit betekent dus op een echte geval van een data lek een hacker met hetzelfde niveau als de cyber-student en dezelfde tools niet de wachtwoorden kan kraken. 
 Waarmee ik dus veilig kan zeggen dat mijn beveiliging sterk genoeg is

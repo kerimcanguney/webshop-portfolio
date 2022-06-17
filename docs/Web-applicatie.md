@@ -119,4 +119,11 @@ Voor de back-end api heb ik eental unit tests geschreven. Wat ik helaas niet kon
 
 ![tests](https://user-images.githubusercontent.com/79853948/174254802-7b57a1f9-15bb-4e69-afcd-a6bc5be121f4.png)
 
+2 van de tests
+
+het creeëren van een geldig account. Hierbij verwachten we een positieve resultaat.
+![image](https://user-images.githubusercontent.com/79853948/174261692-1e88fc84-2917-4a38-9413-1e66d8f4ff18.png)
+
+het creeëren van een ongeldig account. Hierbij verwachten we een negatieve resultaat.
+![image](https://user-images.githubusercontent.com/79853948/174261767-3b1679f8-1647-4039-8538-58a58d689402.png)
 

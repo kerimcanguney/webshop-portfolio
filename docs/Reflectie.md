@@ -43,3 +43,23 @@ Ook zal ik eerst overleggen met de groep wat voor een soort agile methode we het
 Voor de CI/CD en testen zal ik volgende keer meteen een start aanmaken. Ervoor zorgen dat de applicatie zichzelf automatisch controlleerd op kwetsbaarheden, functionaliteit etc is een grote aanwinst in het onwikkelings process wat ik graag wil meenemen in de toekomstige projecten.
 
 En tot slot zou het een betere keuze zijn geweest om een css framework/library te gebruiken om werkdruk op de front-end te verlagen. Met zo een framework/library zouden we zeker weten een veel duidelijker/mooier front-end kunnen bouwen.
+
+
+### Eventueele problemen
+
+Met mijn applicatie ben ik tegen paar problemen aangelopen waarbij ik het niet kon oplossen. Hierbij zal ik ze benoemen en kort uitleggen wat het probleem is en hoe ik dit mogelijk kan compenseren.
+
+### Docker images
+
+Voor een van mijn back-end micro services (account-api) was het niet mogelijk om een image te kunnen maken. Ik kreeg hierbij meerdere foutmeldingen waarbij met de hulp van mijn klasgenoten er niet achter konden komen wat de oorzaak was van het probleem. Toch heb ik wel kunnen bewijzen dat ik een image kan bouwen en kan deployen op docker. Met de front-end heb ik een een ge-automatiseerde systeem opgezet waaronder codescans en en dependency's er ook een image word gebouwd en meteen word geplaatst op dockerhub. Deze image is te downloaden en vervolgens te deployen op je local systeem.
+
+### Testing back-end
+
+Ik heb het niet werkend gekregen om de testen te runnen op een van de microservices (product api). Hierbij was het probleem intern met een van de library's wat ik heb gebruikt. Ik ben hier heel lang over aan het doen maar ik heb hierbij op het internet op meerdere pagina's als stackoverflow geen oplossing tegengekomen. Toch heb ik wel de algemene tests geschreven in de .test.js bestand waarbij je kunt zien hoe ik het zou testen. Ook kun je dit verder terug vinden in mijn test plan.
+
+### 3rd party API
+
+Met gebruik van een 3rd party API (stripe) ben ik met het probleem opgelopen om transacties te koppelen aan mijn systeem, omdat ik al reeds aan de einde ben van het semester heb ik met de docent afgesproken om een mock transactie te gebruiken.
+
+
+

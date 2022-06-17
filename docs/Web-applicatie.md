@@ -7,6 +7,7 @@
 -   [Keuze Back-end Framework](#keuze-front-end-framework)
 -   [Data Opslag](#keuze-data-opslag)
 -   [UX](#ux)
+-   [Testplan](#Testplan)
 # Conceptuel diagram
 ![conceptdiagram](https://user-images.githubusercontent.com/79853948/164680365-a521b5ad-2595-436f-875e-67510c01bf00.png)
 In mijn diagram zijn er maar 2 soorten gebruikers, admins en klanten. admins kunnen allerlei producten toevoegen aan de webshop en de klanten kunnen vervolgens
@@ -22,8 +23,8 @@ Enige verschil hierbij zijn de microservices.
 - Customer website: klant kan hiermee producten zien en of kopen. En gebruik maken van een account.
 - Admin website: administrator kan hiermee de API's besturen.
 - Account API: maakt een gebruiker aan en of logd deze in. (admin kan account hierbij verwijderen)
-- Product API: geeft alle producten weer. (admin kan de producten aanpassen)
-- Inventory API: onderhoudt de product hoeveelheid. (admin kan de product hoeveelheid aanpassen)
+- Product API: geeft alle producten weer en de hoeveelheid. (admin kan de producten aanpassen)
+
 # Keuze Front-end Framework
 Ik heb ervoor gekozen om React te gebruiken, omdat ik zelf al wat ervaring had opgebouwt met dit framework.
 Voor mij werkt react gemakkelijk, omdat je in een component structuur werkt en componenten kunt hergebruiken, daardoor zou dit dus ook het meest optimale keuze zijn. 
@@ -71,9 +72,20 @@ Voor de landing pagina wou ik iets moois maken. Dit komt omdat ik veel webshops 
 ![nav](https://user-images.githubusercontent.com/79853948/172265576-0193fb98-2dc9-472b-9997-487fee772357.png)
 Links hebben we een knop om de navigatie balk te openen en vervolgens te navigeren. De categorien om te bezoeken zijn dan 2 klikken verwijderd.
 Vervolgens hebben we een simpel overzicht van de opgezochte producten.
+
+![shoppingpage](https://user-images.githubusercontent.com/79853948/174210758-cbc5e241-5be4-4900-9672-ea2223c90fa2.png)
+![product page](https://user-images.githubusercontent.com/79853948/174210750-531f2997-7115-4412-b1c1-ee4e07d3e791.png)
+![shoppingcart](https://user-images.githubusercontent.com/79853948/174210756-e7e4801b-d803-44c1-93aa-9be8f2a2ffb0.png)
+
+vervolgens de product overzicht pagina, de specificiek product overzicht en de checkout pagina.
+
+
 ### Laadsnelheid
 ![img](https://user-images.githubusercontent.com/79853948/172265070-012052b1-9a74-4554-af81-62fe084bb5bf.png)
 Dit is een raport van de website als je hem probeert te bezoeken. Dit is fijn om te hebben want hiermee kun je de performance van je applicatie snel en overzichtelijk zien, waarmee je dus hiermee je code kunt optimaliseren.
+
+
+
 
 
 # Testplan

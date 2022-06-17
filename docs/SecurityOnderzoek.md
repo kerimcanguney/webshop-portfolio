@@ -21,8 +21,14 @@ Er zijn verschillende soorten databases waarbij er verschillende soorten talen z
 
 In het geval in een datalek wil je dat de hacker niet de data kan gebruiken. Dit kunnen we bereiken met een aantal voorzorgsmaatregelen. 
 
+
 ### Hashing
 De eerste voorzorgsmaatregel is niet direct opslaan van de wachtwoorden in onze database. Door elk wachtwoord van een gebruiker te **"hashen"** met een **hashing algoritme** kunnen we de wachtwoorden niet te herkennen maken. "hashing" is een functie waarbij text in code word omgezet waarbij het process niet om te draaien is, dus inprincipe zou je als applicatie beheerder niet de orginele wachtwoord weten van de gebruiker. Ook zijn alle hashes heel verschillend van elkaar. Stel je hebt een woord en je voegt er een letter aan toe of maakt een letter een hoofdletter. Dan zullen de hashes compleet anders eruit zien. 
+
+het direct opslaan van de wachtwoord in je tabellen wil je als zo dus vermijden
+
+![image](https://user-images.githubusercontent.com/79853948/174260702-d8990c62-fdef-4fc0-86af-6aea3ba57eaa.png)
+
 
 ### Hashing algoritme
 Er zijn veel soorten hashing algoritmes waarbij ze allemaal vrijwel hetzelfde doen alleen de snelheid en veiligheid is anders. Hashing algoritmes op het begin werden snel gekraakt waardoor ze nuteloos werden, maar na ontwikkeling door tijd zijn ze veel krachtiger en soms zelfs sneller geworden. Hierbij is er een simpel vuistregel om te kiezen voor een hashing algoritme als je belang veiligheid is. Kies de nieuwste en meest vertrouwde. Hoe langer een hashing algoritme bestaat destemeer hashes uit deze algoritme worden verzameld wat voor kwetsbaarheden verzorgd.

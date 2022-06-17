@@ -230,6 +230,10 @@ You choose and substantiate solutions for a given problem.
 Bij het persoonlijke project heb ik geprobeerd zoveel mogelijk feedpulse gesprekken te nemen. Bij deze gesprekken nam ik altijd notities op, maar heb ik weliswaar feedpulse vergeten in te vullen. De feedback is wel genoteerd en altijd meegenomen naar het volgende gesprek. 
 De feedback wat word gegeven probeer ik altijd te verwerken en stel zou ik problemen technisch of qua design oplopen, bespreek ik deze ten allen tijden met de docent.
 
+Met mijn eigen en groeps project werk ik door een main branch bij te houden. Met eisen naar veranderingen maken we een nieuwe branch aan. Hierin verwerken we alle updates, runnen tests en mergen we uiteindelijk de nieuwe branch naar de main.
+
+![image](https://user-images.githubusercontent.com/79853948/174253564-a852170a-3e83-4f26-ad86-cda174a7284e.png)
+
 
 **Groeps project**
 Bij het groepsproject speelde ik de leidende rol. Elke dinsdag 'smorgens hield ik een scrum meeting waarbij we dan de user stories/progres van vorige week/huidige problem besproken. Al hoewel de helft van ons groepje laterin de semester met de opleiding wouden stoppen probeerde ik ze alsnog op een of ander manier te betrekken.

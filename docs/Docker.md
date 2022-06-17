@@ -29,6 +29,13 @@ Docker compose is een set instructies voor het uitvoeren van de images in een be
 
 Zouden de image's los van elkaar geplaatst zijn in verschillende containers zouden ze niet van elkaars bestaan afweten, omdat de containers in compleet isolatie leven.
 
+# Waar ben ik met docker aan gekomen?
+
+Ik heb met docker voor meeste van mijn applicaties een image kunnen bouwen. Vervolgens heb ik de images in een container kunnen stoppen en deze kunnen uitvoeren.
+toch is het bij de back-end een heel hoop mislukt. Enige waar ik het wel kan bewijzen dat het werkt is de front-end. Hierbij bouw ik de image via een .yml bestand wat geautomatiseerd een image bouwd en plaats op dockerhub wat ik vervolgens kan downloaden (of iemand anders) en deze kan uitvoeren.
+
+![docker](https://user-images.githubusercontent.com/79853948/174217139-74e3adbf-c12a-497b-a38d-73ccba6b117d.png)
+
 [bron video](https://www.youtube.com/watch?v=rOTqprHv1YE)
 
 [bron video mosh](https://www.youtube.com/watch?v=pTFZFxd4hOI&t=1445s)

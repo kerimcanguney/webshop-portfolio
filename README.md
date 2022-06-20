@@ -170,6 +170,8 @@ bronnnen:
 [:point_up: Back to top](#webshop-portfolio)
 
 
+
+
 # 6. Requirements and Design
 Learning outcome: You analyze (non-functional) requirements, elaborate (architectural) designs and validate them using multiple types of test techniques.
 
@@ -214,7 +216,16 @@ Business processes needed for the success of your software development project (
 
 Zie [groeps verslag](https://github.com/kerimcanguney/webshop-portfolio/blob/main/docs/BusinessProcess.md) om het business process/documentatie te vinden.
 
+**Conlusie**
+
+In de gesprekken met de opdrachtgever zou het heel handig zijn geweest om het businessprocess model te bespreken, zodat we om een duidelijkere manier onze gedachte over het process overdragen naar de opdrachtgevers, zodat we allemaal op één lijn zitten. Hierbij zou dan feedback plaats vinden op het model en zouden we verbeteringen kunnen toebrengen.
+
+Oftewel er lag een probleem met het verduidelijken van het idee wat we hadden over het business proces. Dit kunnen we volgende keer beter visualiseren met een business proces model wat alles een stuk duidelijk aan kaart brengt
+
+
+
 [:point_up: Back to top](#webshop-portfolio)
+
 
 
 # 8. Professional
